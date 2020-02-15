@@ -3,7 +3,7 @@ name: default
 
 workspace:
   base: /go
-  path: src/github.com/miguelforero19/go-drone-hello-world
+  path: src/github.com/miguelforero19/drone-go-git-test
 
 steps:
   - name: report
